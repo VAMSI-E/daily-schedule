@@ -1,0 +1,29 @@
+h1{
+   margin: 12px 0;
+}
+
+li{
+   list-style: none;
+}
+a{
+   background-color: chocolate;
+   color: white;
+   padding: 5px;
+   border-radius: 8px;
+}
+#goal{
+   color: hotpink;
+}
+
+main{
+   text-align: center;
+}
+li{
+   background-color: darkgray;
+   color: black;
+   border-radius: 8px;
+   margin:8px auto 8px auto;
+   padding: 5px;
+   width:27em;
+   
+}

@@ -1,0 +1,25 @@
+
+body{
+   
+    margin: 50px;
+}
+.image{
+    width: 130px;
+    height: 130px;
+    border-radius: 65px;
+}
+p{
+    font-family: roboto; 
+    text-align: center; 
+    color: #a09e9e;
+}
+h1{
+    font-family: sans-serif;
+     text-align: center; 
+     color: black;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 20px;
+}

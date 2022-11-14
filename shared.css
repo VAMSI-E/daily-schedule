@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(233,215,207);
+    margin: 50px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
